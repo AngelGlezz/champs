@@ -1,0 +1,529 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuántas Champions League ha ganado el Real Madrid?",
+      "respuestas": [
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "10",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "11",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "8",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es el jugador con más partidos en Champions League?",
+      "respuestas": [
+        {
+          "respuesta": "Iker Casillas",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Xavi Hernández",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Raúl González",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Fernando Hierro",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué equipos disputaron la final de la temporada 2014-15?",
+      "respuestas": [
+        {
+          "respuesta": "Real Madrid vs Bayern",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Barcelona vs Real Madrid",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Juventus vs Barcelona",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Bayern vs Juventus",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué estadio ha ganado dos Champions el Barcelona?",
+      "respuestas": [
+        {
+          "respuesta": "Olímpico de Berlín",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Stade de France",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Allianz Arena",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Wembley",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué año ganó la Décima el Madrid frente al Atlético?",
+      "respuestas": [
+        {
+          "respuesta": "2010",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2006",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2012",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2014",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Contra qué equipo ganó la Champions el Barcelona en 2006?",
+      "respuestas": [
+        {
+          "respuesta": "Juventus",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ajax",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Arsenal",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Manchester United",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué estadio se jugará la final de la Champions 2015-2016?",
+      "respuestas": [
+        {
+          "respuesta": "Camp Nou",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "San Siro",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Allianz Arena",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Bernabéu",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántas Copas de Europa ha ganado el Benfica?",
+      "respuestas": [
+        {
+          "respuesta": "2",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "5",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Contra qué equipo ganó su última Champions el Bayern?",
+      "respuestas": [
+        {
+          "respuesta": "Barcelona",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Real Madrid",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Valencia",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Dortmund",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es la mejor posición conseguida por el Atlético en Champions?",
+      "respuestas": [
+        {
+          "respuesta": "Campeón",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Cuartos de Final",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Subcampeón",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Semifinal",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Contra qué equipo anotó su mítica volea Zidane?",
+      "respuestas": [
+        {
+          "respuesta": "Bayern Munich",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Bayer Leverkusen",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Ajax",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Benfica",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué jugador del United fue el único en fallar su penal en la final del 2008?",
+      "respuestas": [
+        {
+          "respuesta": "Carrick",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Tévez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Giggs",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Cristiano",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "Último jugador mexicano en jugar una final de Champions",
+      "respuestas": [
+        {
+          "respuesta": "Rafa Márquez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Chicharito",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Hugo Sánchez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Miguel Layún",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué equipos protagonizaron la única final de Champions de dos partidos?",
+      "respuestas": [
+        {
+          "respuesta": "Atlético vs Bayern",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Madrid vs Bayern",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Atlético vs Real Madrid",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Bayern vs Barcelona",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué año se le denomina Champions League?",
+      "respuestas": [
+        {
+          "respuesta": "1997",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2001",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1995",
+          "tipo": "false"
+        }
+        {
+          "respuesta": "1992",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién de los siguientes personajes ha ganado la Champions League como jugador y entrenador?",
+      "respuestas": [
+        {
+          "respuesta": "Mourinho",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Heynckes",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Guardiola",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Laurent Blanc",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es el futbolista que más veces ha ganado la Champions League?",
+      "respuestas": [
+        {
+          "respuesta": "Raúl",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Messi",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Gento",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Di Stéfano",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántas Champions ha ganado Zlatan?",
+      "respuestas": [
+        {
+          "respuesta": "1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "0",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál fue el marcador de la última final de Champions?",
+      "respuestas": [
+        {
+          "respuesta": "1-3",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "2-1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2-3",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "4-1",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Máximo anotador actual de la Champions League",
+      "respuestas": [
+        {
+          "respuesta": "Messi",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Suárez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Cristiano",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Di Stéfano",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántas Champions ha ganado el Barcelona?",
+      "respuestas": [
+        {
+          "respuesta": "6",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "9",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "5",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Mexicano que juega en el Benfica?",
+      "respuestas": [
+        {
+          "respuesta": "Miguel Layún",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alan Pulido",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Raúl Jiménez",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Raúl Gudiño",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos Balones de Oro tiene Lionel Messi?",
+      "respuestas": [
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "6",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "5",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "4",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Actual jugador del PSG?",
+      "respuestas": [
+        {
+          "respuesta": "Thiago Silva",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Ronaldinho",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Neymar",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ezequiel Lavezzi",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Jugador que fue suspendido por morder al rival?",
+      "respuestas": [
+        {
+          "respuesta": "Edinson Cavani",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Luis Suárez",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Neymar",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Pepe",
+          "tipo": "false"
+        }
+      ]
+    }
+  ]
+}
